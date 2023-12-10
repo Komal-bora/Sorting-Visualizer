@@ -1,1 +1,2 @@
-hello
+Sorting Visualizer
+Mini project
